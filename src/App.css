@@ -1,0 +1,31 @@
+*{
+  
+  text-align: center;
+}
+
+
+.card{
+  display: flex;
+  place-items: center;
+  margin-left: 40%;
+  height: 90%;
+  box-shadow: red;
+ 
+  position: absolute;
+  border: solid black;
+  
+}
+.badge{
+font-size:105%;
+border-color: black;
+}
+
+#unorder{
+  font-size: x-large;
+  border-radius: 18px;
+  background-color: grey;
+  margin-top: 2%;
+ 
+  
+}
+
